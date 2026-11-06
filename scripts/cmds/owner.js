@@ -19,18 +19,20 @@ module.exports = {
     const ownerText =
 `╭━━━〔 👑 OWNER PROFILE 👑 〕━━━╮
 ┃
-┃ 👤 Name       : MOHAMMAD ARIYAN
-┃ 🧑‍💻 Developer : ARIYANX404
+┃ 👤 Name       : Su Baru 
+┃ 🔞 Age        : 22+
+┃ 🗺️Place       : Nepal🇳🇵
+┃ 🧑‍💻 Developer :  ARIYANX404
 ┃ 🤖 Bot        : REM...X...ST
 ┃ ⚙️ Version    : 3.0.00
 ┃
 ┣━━━〔 🔗 CONTACT INFO 〕━━━
 ┃
 ┃ 💬 Messenger:
-┃ m.me/61595801918962
+┃ m.me/61592422092604
 ┃
 ┃ 📘 Facebook:
-┃ facebook.com/profile.php?id=61595801918962
+┃ https://www.facebook.com/profile.php?id=61592422092604
 ┃
 ╰━━━━━━━━━━━━━━━━━━━━╯
      ❤️ Thanks for using REM...X...ST`;
