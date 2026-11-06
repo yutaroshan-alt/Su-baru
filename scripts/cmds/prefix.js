@@ -53,7 +53,7 @@ module.exports = {
 	config: {
 		name: "prefix",
 		version: "1.5",
-		author: "MOHAMMAD ARIYAN",
+		author: "Su Baru",
 		countDown: 5,
 		role: 0,
 		description: "Change bot prefix",
